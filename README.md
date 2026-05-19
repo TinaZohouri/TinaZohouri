@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TinaZohouri
-- 👀 I’m interested in Web design.
-- 🌱 I’m currently learning UI/UX.
-- 💞️ I’m looking to collaborate on Wordpress.
-- 📫 How to reach me? Search for tinazohouri.
-
-
+- - 🌱 I’m currently studying Masters of socio-technical systems.
+- 💻 I'm Exploring the intersection of music, creativity, and technology.
+- 💞️ 🎹 Passionate about sound, art, and building cool things.
+- 📫 How to reach me? Search for tinazohouri anywhere!
