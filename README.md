@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TinaZohouri
-- - 🌱 I’m currently studying Masters of socio-technical systems.
+- 🌱 I’m currently studying Masters of socio-technical systems.
 - 💻 I'm Exploring the intersection of music, creativity, and technology.
 - 💞️ 🎹 Passionate about sound, art, and building cool things.
 - 📫 How to reach me? Search for tinazohouri anywhere!
